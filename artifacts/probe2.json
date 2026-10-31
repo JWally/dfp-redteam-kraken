@@ -1,0 +1,420 @@
+{
+  "state": {
+    "title": "Bitcoin (BTC) to USD Spot Trading - Price & Chart | Kraken Pro",
+    "bodyStart": "Trade | Derivatives | Markets | Portfolio | Loyalty | Ctrl+K | Sign in | Sign up | BTC/USD | 10x | Bitcoin | LAST PRICE | 77,376.5USD | 24H CHANGE | 1",
+    "fpGlobals": [
+      "devicePixelRatio",
+      "ondevicemotion",
+      "ondeviceorientation",
+      "ondeviceorientationabsolute",
+      "rspackChunkkraken"
+    ],
+    "cookies": [
+      "asid",
+      "kraken-account-language",
+      "first_session"
+    ]
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://pro.kraken.com/app"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://assets.kraken.com/fonts/Kraken-Product-Regular.87314a06.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://assets.kraken.com/fonts/Kraken-Product-Medium.4e284e61.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://assets.kraken.com/fonts/Kraken-Product-SemiBold.c1979ff9.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://assets.kraken.com/fonts/Kraken-Mono-Medium.6290a171.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://assets.kraken.com/fonts/ibm.css?crossorigin=true"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://assets.kraken.com/fonts/kraken.css?crossorigin=true"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/frontend-7b609b0533c07fda.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/vendor-ac2dd84572601692.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/main-0e52b9ef4051ef86.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/index.31a281552d.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://pro.kraken.com/app/static/css/frontend.8090ff7121.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://pro.kraken.com/app/static/css/main.b0485b7d59.css"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/monitoring.json?rev=1793452800000"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/session/expiration"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/user-context/feature/ns"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/user-context/targeting/ns"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/meta"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/account/settings"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/account/profile"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/user-context/feature"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/user-context/targeting"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/kyc/attributes"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/kyc/flows"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/static/js/async/feed-worker.2caa5971e0.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-vendor-@braze-web-sdk-xl-2e83a7f1e03cdc19.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-kweb-internal-handlers-hq-d0bdb6499ce103a8.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-kweb-internal-query-7r-df4359c07f82e95e.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-futures-handlers-eb-37b4b9656fa9a7da.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://pro.kraken.com/app/static/css/async/trade-view.e3e0125f6b.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/trade-view.70600790b5.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "blob:https://pro.kraken.com/64ff54ed-0c79-400d-9ef9-536784147b49"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/session/expiration"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://sg.kraken.com/v1/initialize?k=client-hUQjferl4V226VOEbis5kyDnsbycNFry0HOEUKDNeBS&st=javascript-client&sv=3.32.6&t=1793452845726&sid=7fe7614a-7986-480e-8"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-onboarding-web-kw-73fad89a9286730d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-kyc-flows-ab-82e800e7c1087688.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/tm.9d3cb46fa7.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-vendor-@sentry-internal-replay-p5-0c06c6c698a7959c.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/session-replay-backend.1c935b2966.js"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/translations.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/markets/all/futures-contracts?delayed=true&country=US"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/markets?preferred_asset_name=new&include_fees=false"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/markets/all/assets?trending=true&tradable=true&page_size=25&page=0"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/markets/assets?preferred_asset_name=new"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/slid"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://ftlofs1.kraken.com/assets/loader.min.js"
+    },
+    {
+      "method": "GET",
+      "type": "xhr",
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/funding-sdk-translations-en-US.500038bb9d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/pro-prop-trading-web-translations-en-US.95649cd311.js"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/funding.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/settings.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/vip.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/journey.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://status.kraken.com/api/v2/components.json"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-@frontend-funding-web-mr-065850f9e31329c8.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/pro-ui-kit-web-translations-en-US.f96283da68.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/support-center-web-translations-en-US.3d9eede2a9.js"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/banners/ns?lang=en-US"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_btc.webp?i=kds"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://ftlofs1.kraken.com/assets/collector.min.b4cd05a.html?r=2026-10-20-b4cd05a"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/trade/page-data/btc-usd.json"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-vendor-@popperjs-core-qn-48b181a0ea0e6709.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-vendor-@stdlib-math-base-special-erf-e1-eeaa0130d8073eca.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/layout-components.b5c5214311.js"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/delisting-notices/ns?include_synthetic_markets=true"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://ftlofs1.kraken.com/assets/collector.min.b4cd05a.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/static/js/async/0.d7824c1b42.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "blob:https://ftlofs1.kraken.com/c5bf8ead-7c99-4e40-8e71-317f47409564"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://pro.kraken.com/app/assets/locales/en-US/reg.json?rev=4504072a680bc311"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.cookielaw.org/logos/7da03ef3-e935-4c0f-a4ad-8d18edf7354c/0196d3cf-769d-7473-8daf-4ab42a208f1e/6e580eef-994c-4beb-88f7-e3f2a11ffa94/kraken_logo_2024."
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://cdn.seg.kraken.com/v1/projects/0cvFRmjjkw8uJi4xTTfMvBniMbDNWbmc/settings"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://pro.kraken.com/app/async-vendor-@segment-analytics-next-fr-c17ac61e77176290.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/braze-cloud-plugins/58173c806cda1854738b.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/google-analytics-4-web/51e68a22e5622640852a.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/reddit-plugins/038ca1803037e82db89f.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/ms-bing-capi/4ffdb23fe3aa6ad8638d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/rokt-plugins/bac3128d8f4abe7525c2.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://ftlofs2.kraken.com/v1/b.png?sessionKey=AQw0DwDRHRCJeTcXaWXXjay1UJf5nrmAqwr_nq5UNJQiyJNcHYad30dIMfGX6g67eyxmuaLE2l1tiDh1BT7IsBpys7zcsVFTH1o48mY_Ql_gkZpG&"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.seg.kraken.com/next-integrations/actions/4596/98c634b6302314f5278d.js"
+    }
+  ]
+}

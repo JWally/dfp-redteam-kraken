@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-kraken",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Kraken security stack assessment: Cloudflare edge + in-house proof-of-work (/pow, double SHA-256, x-pow header) + WebAuthn passkey + server-side risk API; no client fingerprint bundle (authorized, observed/local, 2026-10-31)",
+  "scripts": { "probe": "node scripts/kr-probe.mjs", "probe2": "node scripts/kr-probe2.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

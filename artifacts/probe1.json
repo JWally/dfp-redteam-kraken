@@ -1,0 +1,310 @@
+{
+  "state": {
+    "title": "Kraken | Own the Power of Your Money — Crypto, Stocks & more",
+    "cf": false,
+    "fpGlobals": [],
+    "cookies": []
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.kraken.com/"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.kraken.com/css/facade-onload/19481.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/js/_seg.c9653c79.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "https://iapi.kraken.com/api/internal/meta"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "https://www.kraken.com/config.json"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.kraken.com/_static/css/fdfd551f.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/aec1801d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/6f644898.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/9d8dc5dd.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/b806cb18.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/8c4b4d87.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/a1f2e194.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/dca58f0e.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/f779f351.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/4bf7b4f5.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/81b2d8f5.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/72448fc1.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/e6deebc6.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/ebd5b953.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/c746e449.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/2543a905.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/5f3baa89.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/1183bab1.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/f40ad1cd.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/6b5e50a3.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/1833ba16.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/ccaafb15.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/e44f05ab.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/b39efd92.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/c85be1ef.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/b2b842a5.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/14c3bd83.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/8b0b221f.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/64a125fb.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/3117d46d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/8b8cdb3c.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/70f5d5e2.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/e0f7ecc3.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/27a16590.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/e1d27057.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/69ca8d92.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/1725a347.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/32ab9dce.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/df47aaf8.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/4341344c.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/c4563893.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/10212b85.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/9fcd2805.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/5401deae.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/4c3bf7b1.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/621ca824.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/ed6ceb30.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/3b862eee.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/76234c90.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/6d1c9c62.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/a31c74e2.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/7de3ec30.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/d31e1922.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/93082e42.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.kraken.com/_static/js/async/a4771b6b.js"
+    }
+  ]
+}
