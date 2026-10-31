@@ -1,0 +1,37 @@
+{
+  "pow": [
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "method": "GET",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://pro.kraken.com/",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"148\", \"HeadlessChrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "status": 200,
+      "ct": "image/svg+xml",
+      "body": "<svg width=\"568\" height=\"53\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_33262_44346)\" fill=\"#000\"><path d=\"M4.226 44V8.449h14.626c4.673 0 7.263.914 9.193 2.64 2.031 1.83 3.149 4.52 3.149 7.771 0 3.454-1.27 6.247-3.606 8.075-2.997 2.337-6.653 2.387-10.462 2.387h-8.33V44h-4.57zm4.57-31.895v13.56h10.056c4.673 0 7.923-1.98 7.923-6.805 0-4.875-3.402-6.755-8.024-6.755H8.796zM44.8 17.133c7.821 0 12.9 5.232 12.9 13.713 0 8.38-5.028 13.814-12.9 13.814-7.923 0-12.9-5.282-12.9-"
+    },
+    {
+      "url": "https://pro.kraken.com/api/internal/pow",
+      "method": "GET",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "x-handler-env": "pro",
+        "referer": "https://pro.kraken.com/app/trade/btc-usd",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"148\", \"HeadlessChrome\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    }
+  ],
+  "r": {
+    "status": 200,
+    "body": "<!doctype html><html lang=\"en\" translate=\"no\"><head><meta charset=\"utf-8\"/><meta name=\"google\" content=\"notranslate\"/><base href=\"/app/\"/><link rel=\"preconnect\" href=\"https://iapi.kraken.com\" /><script id=\"inject-window-config\">window.config='{\"name\":\"production\",\"internalApi\":\"https://iapi.kraken.com/api/internal\",\"apiEnvironment\":\"prod\",\"statsig_client_key\":\"client-hUQjferl4V226VOEbis5kyDnsbycNFry0HOEUKDNeBS\",\"mixpanelClientId\":\"33558f23874286e078cb680a2b8ee0ae\",\"zendeskClientId\":\"a68bfe5c-72c5-4eec-af98-5343a5806808\",\"sentryDsn\":\"https://4ae36bca85744d0c8514abb819680e97@o552333.ingest.sentr"
+  }
+}

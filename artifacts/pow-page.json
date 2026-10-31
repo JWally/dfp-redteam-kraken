@@ -1,0 +1,19 @@
+{
+  "r": {
+    "/api/internal/pow": {
+      "status": 401,
+      "body": "{\"result\":null,\"errors\":[{\"severity\":\"E\",\"errorClass\":\"General\",\"type\":\"No session\",\"msg\":null,\"value\":null,\"field\":null}]}"
+    },
+    "/api/internal/pow?preferred_asset_name=btc": {
+      "status": 401,
+      "body": "{\"result\":null,\"errors\":[{\"severity\":\"E\",\"errorClass\":\"General\",\"type\":\"No session\",\"msg\":null,\"value\":null,\"field\":null}]}"
+    }
+  },
+  "pow": [
+    {
+      "url": "https://iapi.kraken.com/api/internal/pow",
+      "status": 401,
+      "body": "{\"result\":null,\"errors\":[{\"severity\":\"E\",\"errorClass\":\"General\",\"type\":\"No session\",\"msg\":null,\"value\":null,\"field\":null}]}"
+    }
+  ]
+}

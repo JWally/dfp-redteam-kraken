@@ -101,6 +101,14 @@ this whole project of "client does work, server verifies" done correctly.
   auth-sensitive requests (we're unauthenticated), so we did **not** capture a
   live solve or the `x-pow` on the wire — but the client code is complete and
   unambiguous.
+- **Verified the gate:** calling the real challenge endpoint
+  `https://iapi.kraken.com/api/internal/pow` (the host from the app config,
+  route marked `security:false` in the bundle) returns **401 `"No session"`**
+  unauthenticated — even though the bundle labels the route `security:false`,
+  the server still demands a session to issue a challenge. So the PoW
+  challenge payload is **not obtainable unauthenticated**: the server gates
+  the challenge behind auth + its own risk decision. Same "server-decided"
+  pattern as hCaptcha/Coinbase-CF.
 - No account/auth touched; everything observed or locally fulfilled.
 
 ## 8. Artifacts
