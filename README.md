@@ -59,6 +59,24 @@ the wire was not captured unauthenticated.
 - 🔴 Tamper with payload: PoW fresh + server-verified; tampering = invalid answer
 - 🔴 Mint token: can't mint — the work *is* the verification (cost-based)
 
+## Demo video — the PoW solver verified
+
+**Watch the capture** (terminal capture of `scripts/krk-pow-solver.mjs` —
+the double-SHA256 nonce search + `server-verify: PASS` at difficulties 10/12/14):
+
+<img src="assets/videos/full-payload-demo.gif" width="720" alt="Kraken PoW solver demo" />
+
+<video controls preload="metadata" width="720"><source src="assets/videos/full-payload-demo.mp4" type="video/mp4"></video>
+
+Reproduce it yourself:
+
+```bash
+node scripts/krk-pow-solver.mjs
+```
+
+Full detail: [KRAKEN_POW_DEEP_2026_11_01.md](KRAKEN_POW_DEEP_2026_11_01.md)
+[Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-kraken/main/assets/videos/full-payload-demo.mp4)
+
 ## Files
 
 - `scripts/krk-pow-solver.mjs` — solver + self-verify harness
