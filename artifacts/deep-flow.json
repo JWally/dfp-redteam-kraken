@@ -1,0 +1,83 @@
+{
+  "st": {
+    "url": "https://pro.kraken.com/app/trade/btc-usd",
+    "cookies": [
+      "kraken-account-language",
+      "first_session"
+    ],
+    "forms": [
+      "INPUT:text",
+      "FORM:",
+      "INPUT:checkbox",
+      "INPUT:price",
+      "INPUT:volume",
+      "INPUT:volumeInQuote",
+      "INPUT:range",
+      "INPUT:checkbox",
+      "INPUT:checkbox"
+    ],
+    "cfChallenge": false
+  },
+  "log": {
+    "pow": [],
+    "headers": [],
+    "iapi": [
+      {
+        "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/banners/ns?lang=en-US",
+        "method": "GET"
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/meta",
+        "method": "GET"
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/user-context/feature/ns",
+        "method": "GET"
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/delisting-notices/ns?include_synthetic_markets=true",
+        "method": "GET"
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/markets/BTC%2FUSD/ticker/history?since=1792475321&interval=60&version=2&c",
+        "method": "GET"
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/user-context/feature/ns",
+        "method": "GET"
+      }
+    ],
+    "hdrs": [
+      {
+        "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/banners/ns?lang=en-US",
+        "xpow": null,
+        "cf": null
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/meta",
+        "xpow": null,
+        "cf": null
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/user-context/feature/ns",
+        "xpow": null,
+        "cf": null
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/pro-messaging/v1/delisting-notices/ns?include_synthetic_markets",
+        "xpow": null,
+        "cf": null
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/markets/BTC%2FUSD/ticker/history?since=1792475321&interval=60&v",
+        "xpow": null,
+        "cf": null
+      },
+      {
+        "url": "https://iapi.kraken.com/api/internal/user-context/feature/ns",
+        "xpow": null,
+        "cf": null
+      }
+    ]
+  }
+}
